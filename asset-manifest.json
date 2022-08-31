@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Password_Form/static/css/main.1f5b5ee8.css",
+    "main.js": "/Password_Form/static/js/main.b4629810.js",
+    "static/js/787.0b364719.chunk.js": "/Password_Form/static/js/787.0b364719.chunk.js",
+    "index.html": "/Password_Form/index.html",
+    "main.1f5b5ee8.css.map": "/Password_Form/static/css/main.1f5b5ee8.css.map",
+    "main.b4629810.js.map": "/Password_Form/static/js/main.b4629810.js.map",
+    "787.0b364719.chunk.js.map": "/Password_Form/static/js/787.0b364719.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f5b5ee8.css",
+    "static/js/main.b4629810.js"
+  ]
+}
